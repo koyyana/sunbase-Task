@@ -28,7 +28,7 @@ Clone the repository:
 
 # bash
 Copy code
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/koyyana/sunbase-task.git
 Install dependencies:
 
 # bash
